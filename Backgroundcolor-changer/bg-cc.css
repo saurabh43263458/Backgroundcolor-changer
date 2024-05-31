@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+nav{
+    height: 50px;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    color:black;
+    font-weight: 900;
+}
+.main1{
+    height: 50vh;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.main2{
+    height: 50vh;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.same{
+    margin:10px 10px 10px 10px;
+    height: 100px;
+    width:100px;
+    border: 2px solid black;
+}
